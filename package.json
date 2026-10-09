@@ -1,0 +1,15 @@
+{
+  "name": "praktikum-typescript-nim",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Praktikum TypeScript: pola segitiga, deret aritmatika, dan bilangan prima dari NIM",
+  "scripts": {
+    "soal1": "tsx src/soal1-segitiga.ts",
+    "soal2": "tsx src/soal2-deret.ts",
+    "soal3": "tsx src/soal3-prima.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
